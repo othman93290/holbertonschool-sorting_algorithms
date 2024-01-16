@@ -1,0 +1,4 @@
+O(n^2)   // Best case: In the best case, we still have nested loops.
+O(n^2)   // Average case: In the average case, we have nested loops.
+O(n^2)   // Worst case: In the worst case, we have nested loops.
+

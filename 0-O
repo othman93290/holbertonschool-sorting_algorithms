@@ -1,0 +1,4 @@
+O(n)     // Best case: The array is already sorted, and no swaps are needed.
+	O(n^2)   // Average case: In the average case, we have nested loops.
+O(n^2)   // Worst case: In the worst case, we have nested loops.
+
